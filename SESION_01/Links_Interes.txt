@@ -1,0 +1,31 @@
+
+Componentes Angular 
+
+https://codingpotions.com/angular-componentes
+https://ngchallenges.gitbook.io/project/componentes
+https://codingpotions.com/angular-comunicacion-componentes/
+https://platzi.com/clases/2486-angular-componentes/41180-ciclo-de-vida-de-componentes/#:~:text=Ciclo%20de%20vida%20en%20Angular,los%20inputs%20en%20todo%20momento
+
+Directivas:
+https://www.freecodecamp.org/espanol/news/como-usar-y-crear-directivas-personalizadas-en-angular/#:~:text=%C2%BFQu%C3%A9%20es%20una%20directiva%20angular,adjuntar%20comportamientos%20personalizados%20al%20DOM.
+https://medium.com/notasdeangular/directivas-en-angular-efb8a8cf78e0 (Directivas )
+https://codigoencasa.com/que-son-las-directivas-en-angular/ ( Directivas ) 
+
+Modulos
+https://www.tutorialesprogramacionya.com/angularya/detalleconcepto.php?punto=14&codigo=14&inicio=0  ( Módulos)
+https://www.youtube.com/watch?v=KzTAvLxN60U ( Módulos ) 
+
+Estructura
+https://angular.io/guide/file-structure ( Estructura carpetas y multiproyectos ) 
+
+Angular Material
+https://material.angular.io/guide/getting-started ( Instalación Angular Material ) 
+https://ng-bootstrap.github.io/#/getting-started ( Instalacion Bootstrap ) 
+Un componente DataTable ( Angular Material )
+https://blog.angular-university.io/angular-material-data-table/
+
+Formularios Reactivos:
+https://runebook.dev/es/docs/angular/guide/reactive-forms (Tema 10)
+https://angular.io/guide/form-validation
+
+
