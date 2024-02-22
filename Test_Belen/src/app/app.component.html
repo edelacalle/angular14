@@ -1,0 +1,28 @@
+<h1>03 Componentes</h1>
+
+<p>Ver datos: {{ aContadores | json }}</p>
+
+
+<table width="100%" border="1">
+  <thead>
+    <tr>
+      <th *ngFor="let c of aContadores" >{{c["title"]}} / {{c.id}}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th *ngFor="let c of aContadores" >
+          <app-contador [inicio]="c.inicio"></app-contador>
+      </th>
+    </tr>
+    
+  </tbody>
+  <tfoot>
+    <tr>
+      <td><button>Para contador</button></td>
+      <td><button>Para contador</button></td>
+      <td><button>Para contador</button></td>
+    </tr>
+  </tfoot>
+
+</table>
