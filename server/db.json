@@ -1,13 +1,25 @@
 {
-    "alumnos":[
-        {"id":"1", "nombre":"alumno 1", "beca": true , "edad": 32 },
-        {"id":"2", "nombre":"alumno 2", "beca": false, "edad": 45 },
-        {"id":"3", "nombre":"alumno 3", "beca": false, "edad": 25 }
-    ],
-
-    "cursos":[
-        {"id":"1", "nombre":"Angular 14", "sesiones": 10  , "fechas":["20/02/2024","22/02/2024","27/02/2024"] },
-        {"id":"2", "nombre":"Typescript", "sesiones": 8  }
-    ]
+  "participantes": [
+    {
+      "id": "1",
+      "nombre": "Usuario 1",
+      "ganados": 0
+    },
+    {
+      "id": "2",
+      "nombre": "Usuario 2",
+      "ganados": 0
+    },
+    {
+      "id": "3",
+      "nombre": "Usuario 3",
+      "ganados": 0
+    },
+    {
+      "id": "4",
+      "nombre": "Usuario 4",
+      "ganados": 0
+    }
     
+  ]
 }
